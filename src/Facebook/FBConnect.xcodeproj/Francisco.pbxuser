@@ -1,0 +1,121 @@
+// !$*UTF8*$!
+{
+	0B0A0E9011ABDFD300A0C006 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	0B0A0E9111ABDFD300A0C006 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	0B0A0EB511ABE0CC00A0C006 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BEF7092F0EA02F1700EFA6FD /* FBConnect.h */;
+		name = "FBConnect.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 659;
+		vrLoc = 0;
+	};
+	0B0A0EB611ABE0CC00A0C006 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0B0A0EB711ABE0CC00A0C006 /* close.png */;
+	};
+	0B0A0EB711ABE0CC00A0C006 /* close.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = close.png;
+		path = "/Users/Francisco/Desktop/Pocket WCup PRO/src/Facebook/FBConnect.bundle/images/close.png";
+		sourceTree = "<absolute>";
+	};
+	0B0A0EB811ABE0CC00A0C006 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0B0A0EB911ABE0CC00A0C006 /* login.png */;
+	};
+	0B0A0EB911ABE0CC00A0C006 /* login.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = login.png;
+		path = "/Users/Francisco/Desktop/Pocket WCup PRO/src/Facebook/FBConnect.bundle/images/login.png";
+		sourceTree = "<absolute>";
+	};
+	0B423B0211ABE0D4004369A4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0B423B0311ABE0D4004369A4 /* fbicon.png */;
+	};
+	0B423B0311ABE0D4004369A4 /* fbicon.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = fbicon.png;
+		path = "/Users/Francisco/Desktop/Pocket WCup PRO/src/Facebook/FBConnect.bundle/images/fbicon.png";
+		sourceTree = "<absolute>";
+	};
+	0B423B5F11ABE252004369A4 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 0B423B6011ABE252004369A4 /* fbicon.png */;
+	};
+	0B423B6011ABE252004369A4 /* fbicon.png */ = {
+		isa = PBXFileReference;
+		name = fbicon.png;
+		path = "/Users/Francisco/Desktop/Pocket WCup PRO/src/Facebook/FBConnect.bundle/images/fbicon.png";
+		sourceTree = "<absolute>";
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeTarget = BE61A71A0DE2551300D4F7B9 /* FBPlatform */;
+		codeSenseManager = 0B0A0E9111ABDFD300A0C006 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 296477248;
+			PBXWorkspaceStateSaveDate = 296477248;
+		};
+		perUserProjectItems = {
+			0B0A0EB511ABE0CC00A0C006 /* PBXTextBookmark */ = 0B0A0EB511ABE0CC00A0C006 /* PBXTextBookmark */;
+			0B0A0EB611ABE0CC00A0C006 /* PBXBookmark */ = 0B0A0EB611ABE0CC00A0C006 /* PBXBookmark */;
+			0B0A0EB811ABE0CC00A0C006 /* PBXBookmark */ = 0B0A0EB811ABE0CC00A0C006 /* PBXBookmark */;
+			0B423B0211ABE0D4004369A4 /* PBXBookmark */ = 0B423B0211ABE0D4004369A4 /* PBXBookmark */;
+			0B423B5F11ABE252004369A4 /* PBXBookmark */ = 0B423B5F11ABE252004369A4 /* PBXBookmark */;
+		};
+		sourceControlManager = 0B0A0E9011ABDFD300A0C006 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	BE61A71A0DE2551300D4F7B9 /* FBPlatform */ = {
+		activeExec = 0;
+	};
+	BEF7092F0EA02F1700EFA6FD /* FBConnect.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 364}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 659}";
+		};
+	};
+}

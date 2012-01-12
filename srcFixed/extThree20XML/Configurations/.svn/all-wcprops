@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/srcFixed/extThree20XML/Configurations
+END
+UnitTests.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/srcFixed/extThree20XML/Configurations/UnitTests.xcconfig
+END
+Library.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/srcFixed/extThree20XML/Configurations/Library.xcconfig
+END
+Project.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/srcFixed/extThree20XML/Configurations/Project.xcconfig
+END

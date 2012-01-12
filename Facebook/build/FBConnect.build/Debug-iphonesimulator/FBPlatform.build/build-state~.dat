@@ -1,0 +1,260 @@
+TFBPlatform
+v7
+r1
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004AF0C10000000000000000EE
+t1257292032
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004ABDEE58000000000004AFE0
+t1253961304
+s307168
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004ABDC81B00000000000799B0
+t1253951515
+s498096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/CommonCrypto/CommonDigest.h
+c000000004748A1090000000000002500
+t1195942153
+s9472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/dlfcn.h
+c00000000476340E00000000000000AC7
+t1197687008
+s2759
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/lib/libsqlite3.0.dylib
+c000000004ABDC6BF00000000000C4CF0
+t1253951167
+s806128
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/lib/libxml2.2.dylib
+c000000004ABDC83E0000000000124950
+t1253951550
+s1198416
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBConnect/FBConnectGlobal.h
+c000000004C5779DF0000000000001E85
+t1280801247
+s7813
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBConnect/FBDialog.h
+c000000004C5779DF0000000000000EE9
+t1280801247
+s3817
+i"FBConnect/FBConnectGlobal.h"
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBConnect/FBLoginButton.h
+c000000004C5779DF00000000000005A1
+t1280801247
+s1441
+i"FBConnect/FBSession.h"
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBConnect/FBLoginDialog.h
+c000000004C5779DF00000000000002F1
+t1280801247
+s753
+i"FBConnect/FBDialog.h"
+i"FBConnect/FBRequest.h"
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBConnect/FBPermissionDialog.h
+c000000004C5779DF000000000000038C
+t1280801247
+s908
+i"FBConnect/FBLoginDialog.h"
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBConnect/FBRequest.h
+c000000004C5779DF0000000000001159
+t1280801247
+s4441
+i"FBConnect/FBConnectGlobal.h"
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBConnect/FBSession.h
+c000000004C5779DF0000000000001579
+t1280801247
+s5497
+i"FBConnect/FBConnectGlobal.h"
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBConnect/FBStreamDialog.h
+c000000004C5779DF000000000000083F
+t1280801247
+s2111
+i"FBConnect/FBDialog.h"
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBConnectGlobal.m
+c000000004C5779E100000000000005C5
+t1280801249
+s1477
+i"FBConnect/FBConnectGlobal.h"
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBDialog.m
+c000000004C5779E000000000000054A6
+t1280801248
+s21670
+i"FBConnect/FBDialog.h"
+i"FBConnect/FBSession.h"
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBLoginButton.m
+c000000004C5779E00000000000001476
+t1280801248
+s5238
+i"FBConnect/FBLoginButton.h"
+i"FBConnect/FBLoginDialog.h"
+i<dlfcn.h>
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBLoginDialog.m
+c000000004C5779DE000000000000100E
+t1280801246
+s4110
+i"FBConnect/FBLoginDialog.h"
+i"FBConnect/FBSession.h"
+i"FBConnect/FBRequest.h"
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBPermissionDialog.m
+c000000004C5779E10000000000000C88
+t1280801249
+s3208
+i"FBConnect/FBPermissionDialog.h"
+i"FBConnect/FBSession.h"
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBRequest.m
+c000000004C5779DE0000000000002EFC
+t1280801246
+s12028
+i"FBConnect/FBRequest.h"
+i"FBConnect/FBSession.h"
+i"FBXMLHandler.h"
+i<CommonCrypto/CommonDigest.h>
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBSession.m
+c000000004C5779DE000000000000215A
+t1280801246
+s8538
+i"FBConnect/FBSession.h"
+i"FBConnect/FBRequest.h"
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBStreamDialog.m
+c000000004C5779E100000000000009B1
+t1280801249
+s2481
+i"FBConnect/FBStreamDialog.h"
+i"FBConnect/FBSession.h"
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBXMLHandler.h
+c000000004C5779DE00000000000003C9
+t1280801246
+s969
+i"FBConnect/FBConnectGlobal.h"
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBXMLHandler.m
+c000000004C5779E00000000000001148
+t1280801248
+s4424
+i"FBXMLHandler.h"
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/build/Debug-iphonesimulator/libFBPlatform.a
+t2
+s0
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/build/FBConnect.build/Debug-iphonesimulator/FBPlatform.build/Objects-normal/i386/FBConnectGlobal.o
+t2
+s0
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/build/FBConnect.build/Debug-iphonesimulator/FBPlatform.build/Objects-normal/i386/FBDialog.o
+t2
+s0
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/build/FBConnect.build/Debug-iphonesimulator/FBPlatform.build/Objects-normal/i386/FBLoginButton.o
+t2
+s0
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/build/FBConnect.build/Debug-iphonesimulator/FBPlatform.build/Objects-normal/i386/FBLoginDialog.o
+t2
+s0
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/build/FBConnect.build/Debug-iphonesimulator/FBPlatform.build/Objects-normal/i386/FBPermissionDialog.o
+t2
+s0
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/build/FBConnect.build/Debug-iphonesimulator/FBPlatform.build/Objects-normal/i386/FBPlatform.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/build/FBConnect.build/Debug-iphonesimulator/FBPlatform.build/Objects-normal/i386/FBRequest.o
+t2
+s0
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/build/FBConnect.build/Debug-iphonesimulator/FBPlatform.build/Objects-normal/i386/FBSession.o
+t2
+s0
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/build/FBConnect.build/Debug-iphonesimulator/FBPlatform.build/Objects-normal/i386/FBStreamDialog.o
+t2
+s0
+
+N/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/build/FBConnect.build/Debug-iphonesimulator/FBPlatform.build/Objects-normal/i386/FBXMLHandler.o
+t2
+s0
+
+CCompileC build/FBConnect.build/Debug-iphonesimulator/FBPlatform.build/Objects-normal/i386/FBConnectGlobal.o "/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBConnectGlobal.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/FBConnect.build/Debug-iphonesimulator/FBPlatform.build/Objects-normal/i386/FBDialog.o "/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBDialog.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/FBConnect.build/Debug-iphonesimulator/FBPlatform.build/Objects-normal/i386/FBLoginButton.o "/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBLoginButton.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/FBConnect.build/Debug-iphonesimulator/FBPlatform.build/Objects-normal/i386/FBLoginDialog.o "/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBLoginDialog.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/FBConnect.build/Debug-iphonesimulator/FBPlatform.build/Objects-normal/i386/FBPermissionDialog.o "/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBPermissionDialog.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/FBConnect.build/Debug-iphonesimulator/FBPlatform.build/Objects-normal/i386/FBRequest.o "/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBRequest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/FBConnect.build/Debug-iphonesimulator/FBPlatform.build/Objects-normal/i386/FBSession.o "/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBSession.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/FBConnect.build/Debug-iphonesimulator/FBPlatform.build/Objects-normal/i386/FBStreamDialog.o "/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBStreamDialog.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/FBConnect.build/Debug-iphonesimulator/FBPlatform.build/Objects-normal/i386/FBXMLHandler.o "/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/FBXMLHandler.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CLibtool "/Users/macpocket1/Desktop/untitled folder/DNDzgz/src/Facebook/build/Debug-iphonesimulator/libFBPlatform.a" normal i386
+r0
+

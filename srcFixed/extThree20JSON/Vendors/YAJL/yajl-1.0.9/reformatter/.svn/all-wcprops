@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/srcFixed/extThree20JSON/Vendors/YAJL/yajl-1.0.9/reformatter
+END
+json_reformat.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/srcFixed/extThree20JSON/Vendors/YAJL/yajl-1.0.9/reformatter/json_reformat.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/srcFixed/extThree20JSON/Vendors/YAJL/yajl-1.0.9/reformatter/CMakeLists.txt
+END

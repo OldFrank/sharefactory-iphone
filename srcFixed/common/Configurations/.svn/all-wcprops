@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/srcFixed/common/Configurations
+END
+UnitTests.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/srcFixed/common/Configurations/UnitTests.xcconfig
+END
+Library.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/srcFixed/common/Configurations/Library.xcconfig
+END
+Project.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/srcFixed/common/Configurations/Project.xcconfig
+END
+Libraries.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/srcFixed/common/Configurations/Libraries.xcconfig
+END
+Paths.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/srcFixed/common/Configurations/Paths.xcconfig
+END

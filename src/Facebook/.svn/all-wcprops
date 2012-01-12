@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/5/trunk/src/Facebook
+END
+FBXMLHandler.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/Facebook/FBXMLHandler.m
+END
+FBDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/Facebook/FBDialog.m
+END
+FBSession.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/src/Facebook/FBSession.m
+END
+FBLoginButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/src/Facebook/FBLoginButton.m
+END
+FBRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/src/Facebook/FBRequest.m
+END
+FBLoginDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/src/Facebook/FBLoginDialog.m
+END
+FBUploadResultReceiver.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/Facebook/FBUploadResultReceiver.m
+END
+FBPermissionDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/Facebook/FBPermissionDialog.m
+END
+FBTranslationsLoader.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/Facebook/FBTranslationsLoader.m
+END
+FBXMLHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/Facebook/FBXMLHandler.h
+END
+FBNativeStringUploader.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/Facebook/FBNativeStringUploader.m
+END
+FBConnectGlobal.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/src/Facebook/FBConnectGlobal.m
+END
+FBStreamDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/src/Facebook/FBStreamDialog.m
+END

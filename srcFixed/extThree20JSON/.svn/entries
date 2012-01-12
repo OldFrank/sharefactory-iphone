@@ -1,0 +1,80 @@
+10
+
+dir
+7
+https://sharefactory-iphone.googlecode.com/svn/trunk/srcFixed/extThree20JSON
+https://sharefactory-iphone.googlecode.com/svn
+
+
+
+2011-03-15T19:56:24.572278Z
+2
+sergiomtz.losa@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b2d102f3-b0df-4f1c-cd3e-3fbcd578831b
+
+Source
+dir
+
+extThree20JSON.xcodeproj
+dir
+
+Vendors
+dir
+
+README.mdown
+file
+
+
+
+
+2012-01-12T08:39:25.000000Z
+d59aaee60308f5a7d1c4c6304f6e7c54
+2011-03-15T19:56:24.572278Z
+2
+sergiomtz.losa@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1897
+
+UnitTests
+dir
+
+Configurations
+dir
+
+Headers
+dir
+

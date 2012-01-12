@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/src/tests
+END
+CoreJSONTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/tests/CoreJSONTests.m
+END
+CoreAdditionTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/src/tests/CoreAdditionTests.m
+END
+CoreGlobalTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/tests/CoreGlobalTests.m
+END
+UIAdditionTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/tests/UIAdditionTests.m
+END
+CoreXMLTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/src/tests/CoreXMLTests.m
+END
+NetworkModelTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/src/tests/NetworkModelTests.m
+END
+testcase.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/tests/testcase.xml
+END
+UIGlobalTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/tests/UIGlobalTests.m
+END

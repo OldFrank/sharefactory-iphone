@@ -1,0 +1,67 @@
+10
+
+dir
+7
+https://sharefactory-iphone.googlecode.com/svn/trunk/srcFixed
+https://sharefactory-iphone.googlecode.com/svn
+
+
+
+2011-03-15T19:56:24.572278Z
+2
+sergiomtz.losa@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b2d102f3-b0df-4f1c-cd3e-3fbcd578831b
+
+Three20UICommon
+dir
+
+Three20.bundle
+dir
+
+Three20UINavigator
+dir
+
+Three20Core
+dir
+
+Three20Network
+dir
+
+extThree20JSON
+dir
+
+extThree20CSSStyle
+dir
+
+Three20UI
+dir
+
+scripts
+dir
+
+common
+dir
+
+Three20
+dir
+
+Three20Style
+dir
+
+extThree20XML
+dir
+

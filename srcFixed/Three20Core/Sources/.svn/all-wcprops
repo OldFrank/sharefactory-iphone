@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Sources
+END
+NSStringAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Sources/NSStringAdditions.m
+END
+NSObjectAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Sources/NSObjectAdditions.m
+END
+NSMutableArrayAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Sources/NSMutableArrayAdditions.m
+END
+NSDataAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Sources/NSDataAdditions.m
+END
+NSDateAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Sources/NSDateAdditions.m
+END
+TTDebug.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Sources/TTDebug.m
+END
+NSArrayAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Sources/NSArrayAdditions.m
+END
+NSMutableDictionaryAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Sources/NSMutableDictionaryAdditions.m
+END
+TTEntityTables.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Sources/TTEntityTables.m
+END
+TTMarkupStripper.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Sources/TTMarkupStripper.m
+END
+TTGlobalCore.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Sources/TTGlobalCore.m
+END
+TTGlobalCoreLocale.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Sources/TTGlobalCoreLocale.m
+END
+TTGlobalCorePaths.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Sources/TTGlobalCorePaths.m
+END
+TTGlobalCoreRects.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Sources/TTGlobalCoreRects.m
+END

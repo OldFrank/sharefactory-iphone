@@ -1,0 +1,77 @@
+10
+
+dir
+7
+https://sharefactory-iphone.googlecode.com/svn/trunk/srcFixed/Three20Core
+https://sharefactory-iphone.googlecode.com/svn
+
+
+
+2011-03-15T19:56:24.572278Z
+2
+sergiomtz.losa@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b2d102f3-b0df-4f1c-cd3e-3fbcd578831b
+
+README.mdown
+file
+
+
+
+
+2012-01-12T08:39:23.000000Z
+31b44147762f7a53c4831123cb961178
+2011-03-15T19:56:24.572278Z
+2
+sergiomtz.losa@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1828
+
+UnitTests
+dir
+
+Sources
+dir
+
+Configurations
+dir
+
+Headers
+dir
+
+Three20Core.xcodeproj
+dir
+

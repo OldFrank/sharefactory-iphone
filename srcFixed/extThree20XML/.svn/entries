@@ -1,0 +1,77 @@
+10
+
+dir
+7
+https://sharefactory-iphone.googlecode.com/svn/trunk/srcFixed/extThree20XML
+https://sharefactory-iphone.googlecode.com/svn
+
+
+
+2011-03-15T19:56:24.572278Z
+2
+sergiomtz.losa@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b2d102f3-b0df-4f1c-cd3e-3fbcd578831b
+
+Source
+dir
+
+README.mdown
+file
+
+
+
+
+2012-01-12T08:39:27.000000Z
+3d8bb6e76b0d9e369a095ad8b5ce0943
+2011-03-15T19:56:24.572278Z
+2
+sergiomtz.losa@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+665
+
+UnitTests
+dir
+
+extThree20XML.xcodeproj
+dir
+
+Configurations
+dir
+
+Headers
+dir
+

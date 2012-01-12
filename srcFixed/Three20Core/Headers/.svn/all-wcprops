@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Headers
+END
+Three20Core+Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Headers/Three20Core+Additions.h
+END
+TTDebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Headers/TTDebug.h
+END
+TTMarkupStripper.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Headers/TTMarkupStripper.h
+END
+TTGlobalCoreLocale.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Headers/TTGlobalCoreLocale.h
+END
+NSStringAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Headers/NSStringAdditions.h
+END
+NSObjectAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Headers/NSObjectAdditions.h
+END
+NSDataAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Headers/NSDataAdditions.h
+END
+TTDebugFlags.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Headers/TTDebugFlags.h
+END
+TTCorePreprocessorMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Headers/TTCorePreprocessorMacros.h
+END
+NSDateAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Headers/NSDateAdditions.h
+END
+NSArrayAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Headers/NSArrayAdditions.h
+END
+TTEntityTables.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Headers/TTEntityTables.h
+END
+NSMutableDictionaryAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Headers/NSMutableDictionaryAdditions.h
+END
+TTGlobalCorePaths.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Headers/TTGlobalCorePaths.h
+END
+TTGlobalCore.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Headers/TTGlobalCore.h
+END
+Three20Core_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Headers/Three20Core_Prefix.pch
+END
+Three20Core.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Headers/Three20Core.h
+END
+TTGlobalCoreRects.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Headers/TTGlobalCoreRects.h
+END
+NSMutableArrayAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/srcFixed/Three20Core/Headers/NSMutableArrayAdditions.h
+END
